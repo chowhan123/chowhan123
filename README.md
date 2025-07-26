@@ -1,5 +1,5 @@
-# 👋 Hey, I'm Korra Santhosh - Aspiring Software Engineer from Hyderabad, India 🇮🇳  
-**MERN Stack Developer | DSA Enthusiast | Open to Internship & Full-Time Job Opportunities 🚀**
+# 👋 Hey, I'm Santhosh Chauhan 
+**Aspiring Software Engineer from Hyderabad, India 🇮🇳 MERN Stack Developer | DSA Enthusiast | Open to Internship & Full-Time Job Opportunities 🚀**
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=chowhan123&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -9,8 +9,9 @@
   </a>
 </p>
 
+---
 
-## 🚀 About Me
+**🚀 About Me**
 
 - 🧪 Currently working on **Node.js** & **React.js** projects.
 - 👯 Open to collaborating on **MERN Stack Projects**
@@ -65,5 +66,4 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
 
-
-✨ _Thanks for visiting!_ ✨
+                                                                  ✨ _Thanks for visiting!_ ✨
