@@ -1,21 +1,28 @@
-# 👋 Hey, I'm Santhosh Chauhan 
-**Aspiring Software Engineer from Hyderabad, India 🇮🇳 MERN Stack Developer | DSA Enthusiast | Open to Internship & Full-Time Job Opportunities 🚀**
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chowhan123&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  &nbsp;&nbsp;
-  <a href="https://github.com/chowhan123" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/github/followers/chowhan123?label=Follow&style=social" alt="GitHub followers" />
-  </a>
-</p>
+  <h1>👋 Hey, I'm Santhosh Chauhan</h1>
+  <h3>Software Engineer from Hyderabad, India 🇮🇳</h3>
+  <h4>MERN Stack Developer | DSA Enthusiast | Open to Internship & Full-Time Job Opportunities 🚀</h4>
+
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=chowhan123&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+    &nbsp;&nbsp;
+    <a href="https://github.com/chowhan123" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/github/followers/chowhan123?label=Follow&style=social" alt="GitHub followers" />
+    </a>
+  </p>
+
+</div>
 
 ---
 
 **🚀 About Me**
 
-- 🧪 Currently working on **Node.js** & **React.js** projects.
-- 👯 Open to collaborating on **MERN Stack Projects**
-- 🤝 Looking for support and guidance in ** Gen AI | MERN | DSA **
+- 💻 Actively working on **Node.js** and **React.js** projects
+- 👯 Open to collaborating on impactful **MERN Stack Applications**
+- 🌱 Exploring cutting-edge tech like **Gen AI** and **WebRTC**
+- 📘 Strengthening my foundation in **Data Structures & Algorithms** through **LeetCode** & **GeeksforGeeks**
+- 💡 Passionate about building **real-time, scalable web applications** that solve real-world problems
 - 💬 Ask me about: **React.js | Node.js | MongoDB | Express.js | JavaScript | Java**
 - 👨‍💻 All of my projects are available at [Portfolio Link](https://my-portfolio-8huu.onrender.com/)
 - 📫 Reach me at: [santhoshnaik6929@gmail.com](mailto:santhoshnaik6929@gmail.com)
@@ -66,4 +73,4 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
 
-                                                                  ✨ _Thanks for visiting!_ ✨
+✨ _Thanks for visiting!_ ✨
