@@ -2,8 +2,13 @@
 
 Software Engineer from , India 🇮🇳 | MERN Stack Developer | DSA Enthusiast | Open to Internship & Job Opportunities 🚀
 
-![Profile views](https://komarev.com/ghpvc/?username=katemihir26&label=Profile%20views&color=0e75b6&style=flat)
-[![Follow](https://img.shields.io/github/followers/katemihir26?label=Follow&style=social)](https://github.com/katemihir26)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=katemihir26&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+  <a "https://github.com/chowhan123">
+    <img src="https://img.shields.io/github/followers/katemihir26?label=Follow&style=social" alt="GitHub followers"/>
+  </a>
+</p>
 
 ---
 
