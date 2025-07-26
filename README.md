@@ -10,7 +10,7 @@ Software Engineer from , India 🇮🇳 | MERN Stack Developer | DSA Enthusiast 
   </a>
 </p>
 
----
+
 
 ## 🚀 About Me
 
@@ -22,16 +22,15 @@ Software Engineer from , India 🇮🇳 | MERN Stack Developer | DSA Enthusiast 
 - 📫 Reach me at: [santhoshnaik6929@gmail.com](mailto:santhoshnaik6929@gmail.com)
 - 📄 [View My Resume](https://drive.google.com/file/d/1vQKCslQuMG-ZS23LfzWRG0cduw5fNJi4/view?usp=drive_link)
 
----
+
 
 ## 🌐 Connect with Me
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)]()
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santhosh-chauhan/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/santhoshnaik218/)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=flat&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/santhoshacme/)
 
----
+
 
 ## 🛠️ Tech Stack & Tools
 
@@ -47,16 +46,5 @@ Software Engineer from , India 🇮🇳 | MERN Stack Developer | DSA Enthusiast 
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-| <img src="https://github-readme-stats.vercel.app/api?username=katemihir26&show_icons=true&theme=radical" alt="Mihir's GitHub stats" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=katemihir26&theme=radical" alt="Mihir's GitHub streak" /> |
-| - | - |
-
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katemihir26&layout=compact&theme=radical) |
-| - |
-
----
 
 ✨ _Thanks for visiting!_ ✨
