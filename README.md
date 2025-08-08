@@ -1,6 +1,6 @@
-<!-- Banner -->
+<!-- Animated Intro Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F7F7&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Santhosh+Chauhan+👋;MERN+Stack+Developer+%7C+DSA+Enthusiast+🚀;Open+to+SDE+%2F+Backend+%2F+Full+Stack+Roles" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7F7&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Santhosh+Chauhan+👋;Full+Stack+Developer+%7C+MERN+Specialist;DSA+Enthusiast+%7C+Problem+Solver;Open+to+SDE+%2F+Backend+%2F+Full+Stack+Roles" alt="Typing SVG" />
 </p>
 
 ---
@@ -15,15 +15,17 @@
 
 ---
 
-## 🚀 About Me  
+## 💡 About Me  
 
-- 💻 Currently building **Node.js** & **React.js** projects  
-- 🤝 Open to collaborating on impactful **MERN Stack Applications**  
-- 🌱 Exploring **Generative AI** & **WebRTC** for real-time apps  
-- 📘 Leveling up my **Data Structures & Algorithms** with **LeetCode** & **GFG**  
-- 💡 Passionate about **real-time, scalable applications**  
-- 👨‍💻 Portfolio: [Click Here](https://my-portfolio-8huu.onrender.com/)  
-- 📄 Resume: [View PDF](https://drive.google.com/file/d/1-lSgw8ATxWINNil1yZfbWS5vYTIjPcp8/view?usp=sharing)  
+I’m a **Full Stack Developer** from Hyderabad 🇮🇳, passionate about building **real-time, scalable applications** that solve real-world problems.  
+With a strong foundation in **MERN stack** and a love for **Data Structures & Algorithms**, I focus on writing clean, maintainable, and efficient code.  
+
+- 💻 Currently working on **Node.js & React.js** projects  
+- 🤝 Open to collaborating on **high-impact tech projects**  
+- 🌱 Exploring **Generative AI**, **WebRTC**, and **real-time systems**  
+- 🏆 **100+ DSA problems solved** on LeetCode & GFG  
+- 👨‍💻 [Portfolio Website](https://my-portfolio-8huu.onrender.com/)  
+- 📄 [Resume](https://drive.google.com/file/d/1-lSgw8ATxWINNil1yZfbWS5vYTIjPcp8/view?usp=sharing)  
 - 📫 Email: [santhoshnaik6929@gmail.com](mailto:santhoshnaik6929@gmail.com)  
 
 ---
@@ -38,26 +40,33 @@
 
 ---
 
-## 🛠️ Tech Stack & Tools  
+## ⚡ Tech Arsenal  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,javascript,react,nodejs,express,mongodb,html,css,tailwind,git,postman" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=webrtc,socketio" />
+  <img src="https://skillicons.dev/icons?i=java,javascript,react,nodejs,express,mongodb,html,css,tailwind,git,postman,webrtc,socketio" />
 </p>
 
 ---
 
-## 📊 GitHub Stats  
+## 📌 Featured Projects  
+
+| Project | Description | Tech Stack | Link |
+|---------|-------------|------------|------|
+| **Trip Planner AI** | AI-powered travel planning with chat & live suggestions | React, Socket.IO, OpenAI API | [View Project](#) |
+| **Video Conferencing App** | Real-time video meetings with multi-user support | WebRTC, React, Node.js | [View Project](#) |
+| **Blog Management System** | Full-featured blog platform with category filters | MERN, Cloudinary | [View Project](#) |
+
+---
+
+## 📊 GitHub Insights  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chowhan123&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="160" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=chowhan123&theme=dark&hide_border=false" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chowhan123&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="165" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=chowhan123&theme=dark&hide_border=false" height="165" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chowhan123&theme=dark&hide_border=false&layout=compact" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chowhan123&theme=dark&hide_border=false&layout=compact" height="165" />
 </div>
 
 ---
@@ -71,5 +80,5 @@
 ---
 
 <p align="center">
-  ✨ Thanks for visiting! ✨  
+  ✨ *Let’s build something amazing together.* ✨  
 </p>
