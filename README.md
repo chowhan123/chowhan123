@@ -22,8 +22,8 @@
 - 🌱 Exploring **Generative AI** & **WebRTC** for real-time apps  
 - 📘 Leveling up my **Data Structures & Algorithms** with **LeetCode** & **GFG**  
 - 💡 Passionate about **real-time, scalable applications**  
-- 👨‍💻 Portfolio: [Click Here](https://my-portfolio-8huu.onrender.com/)  
-- 📄 Resume: [View PDF](https://drive.google.com/file/d/1-lSgw8ATxWINNil1yZfbWS5vYTIjPcp8/view?usp=sharing)  
+- 👨‍💻 Portfolio: [Click Here](https://santhosh-dev.vercel.app/)  
+- 📄 Resume: [View PDF](https://drive.google.com/file/d/14m2Foj2EP5WBCWUcJnhki1i6OeVS28I1/view?usp=sharing)  
 - 📫 Email: [santhoshnaik6929@gmail.com](mailto:santhoshnaik6929@gmail.com)  
 
 
