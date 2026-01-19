@@ -15,20 +15,25 @@
   <img src="https://komarev.com/ghpvc/?username=chowhan123&label=Profile%20Views&color=7aa2f7&style=for-the-badge" alt="Profile views" />
 </p>
 
-⚡ The Mission
-I architect scalable full-stack applications and build intelligent computer vision systems. Bridging web technologies with AI/ML to create real-world impact through code.
+---
+
+### ⚡ The Mission
+I architect scalable full-stack applications and build real-time web solutions. Passionate about creating impactful software through clean code and efficient system design.
 
 🎓 Final Year B.Tech ECE Student at MNIT Jaipur (Graduating June 2026)
-🛠️ Current Focus: Real-time video processing with EfficientSAM and WebRTC applications
-🏗️ Core Stack: MERN, Spring Boot, Django REST, WebRTC, Socket.IO
+💼 Experience: Node.js Developer Intern at DataValley Web Services
+🛠️ Current Focus: Learning Java Full-Stack Development and System Design fundamentals
+🏗️ Core Stack: MERN, Spring Boot, REST APIs, WebRTC, Socket.IO
 🧩 Competitive Programming: 250+ problems solved across LeetCode & GeeksforGeeks
 🏆 Leadership: Kabaddi Team Captain - 3 consecutive championships at MNIT
+---
 
-
-🛠️ Technical Ecosystem
+### 🛠️ Technical Ecosystem
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,spring,django,python,cpp,java,html,css,tailwind,git,postman,linux" />
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,Java,spring,spring MVC,html,css,tailwind,git,postman" />
 </p>
+---
+
 Specialized Tools:
 <p align="left">
   <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" />
@@ -39,19 +44,18 @@ Specialized Tools:
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" />
 </p>
 
-🚀 Featured Innovations
-ProjectDescriptionStackWanderlustFull-stack accommodation booking platform with real-time availability.MongoDB Express React Node.jsMeetSpaceReal-time video conferencing application with peer-to-peer connections.WebRTC Socket.IO ReactEfficientSAM Video SegmentationAutomated cloth masking system for video processing pipelines.Python SAM OpenCVAdaptive Suspension SystemPothole detection using YOLOv11 for smart vehicle suspension control.YOLOv11 Computer VisionProduct CRUD ManagerEnterprise-grade inventory management with Spring MVC architecture.Spring Hibernate MySQLPlace Review APIRESTful API with JWT authentication for location-based reviews.Django REST JWT PostgreSQL
+### 🚀 Featured Innovations
 
-💼 Professional Experience
-Backend Developer Intern @ DataValley Web Services
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **[Wanderlust](https://wonderlust-ffz4.onrender.com/)** | Full-stack accommodation booking platform with real-time availability. | `React` `Node.js` `MongoDB` |
+| **[MeetSpace](https://meetspacefrontend.onrender.com/)** | Real-time video conferencing application with peer-to-peer connections. | `WebRTC` `Socket.IO` `React` |
+| **[Product CRUD Manager](https://github.com/chowhan123/product-crud-spring-mvc)** | Enterprise inventory management with Spring MC architecture. | `Spring` `Hibernate` `MySQL` |
+| **[TripPocket ](https://github.com/chowhan123/TripPocket-AI-Trip-Planner)** | AI-powered travel planner with real-time chat and personalized itineraries. | `React` `Mongo` `Node.js` `OpenAI` `Socket.IO`|
+---
 
-Developed scalable backend APIs and microservices architecture
-Optimized database queries and implemented caching strategies
-Collaborated with cross-functional teams on full-stack features
-
-
-🏆 Competitive Programming
-<p align="left">
+### 🏆 Coading Profiles
+<p align="center">
   <a href="https://leetcode.com/u/santhoshnaik218/">
     <img src="https://img.shields.io/badge/LeetCode-250+_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
@@ -59,18 +63,20 @@ Collaborated with cross-functional teams on full-stack features
     <img src="https://img.shields.io/badge/GeeksforGeeks-Active-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   </a>
 </p>
+---
 
 
-📊 Engineering Metrics
+### 📊 Engineering Metrics
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=chowhan123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chowhan123&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=chowhan123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=chowhan123&theme=tokyonight&hide_border=true" />
 </p>
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=chowhan123&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chowhan123&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
+---
 
-📫 Connect & Collaborate
+### 📫 Connect & Collaborate
 <p align="center">
   <a href="https://www.linkedin.com/in/santhosh-chauhan/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -85,6 +91,7 @@ Collaborated with cross-functional teams on full-stack features
     <img src="https://img.shields.io/badge/Resume-FF0000?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" />
   </a>
 </p>
+---
 
 <p align="center">
   <i>🚀 Open to Full-Time Opportunities & Collaborations | Let's build something extraordinary together</i>
