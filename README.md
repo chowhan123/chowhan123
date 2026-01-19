@@ -5,14 +5,12 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Full--Stack%20MERN%20Developer-7AA2F7?style=for-the-badge&labelColor=1A1B26" alt="Role" />
   <img src="https://img.shields.io/badge/Java%20Full--Stack%20Developer-7AA2F7?style=for-the-badge&labelColor=1A1B26" alt="Specialty" />
-  <img src="https://img.shields.io/badge/Competitive%20Programmer-7AA2F7?style=for-the-badge&labelColor=1A1B26" alt="CP" />
 </p>
 
 <p align="center">
   <a href="https://github.com/chowhan123">
     <img src="https://img.shields.io/github/followers/chowhan123?label=Follow%20the%20Journey&style=for-the-badge&color=7aa2f7&logo=github" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=chowhan123&label=Profile%20Views&color=7aa2f7&style=for-the-badge" alt="Profile views" />
 </p>
 
 ---
@@ -31,7 +29,7 @@ I architect scalable full-stack applications and build real-time web solutions. 
 ### 🛠️ Technical Ecosystem
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,java,spring,springboot,sql,html,css,tailwind,git,postman" />
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,java,spring,html,css,tailwind,git,postman" />
 </p>
 
 ---
@@ -63,8 +61,8 @@ I architect scalable full-stack applications and build real-time web solutions. 
 ### 📊 Engineering Metrics
 
 <p align="center">
-  <img width="48" src="https://github-readme-stats.vercel.app/api?username=chowhan123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="42" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chowhan123&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=chowhan123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chowhan123&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 ---
