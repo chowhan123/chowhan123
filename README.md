@@ -1,70 +1,75 @@
-<div align="center">
-
-  <h1>👋 Hey, I'm Santhosh Chauhan</h1>
-  <h3>Software Engineer from Hyderabad, India 🇮🇳</h3>
-  <h4>MERN Stack Developer | DSA Enthusiast | Open to Internship & Full-Time Job Opportunities 🚀</h4>
-
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=chowhan123&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-    &nbsp;&nbsp;
-    <a href="https://github.com/chowhan123" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/github/followers/chowhan123?label=Follow&style=social" alt="GitHub followers" />
-    </a>
-  </p>
-
-</div>
-
-
-## 🚀 About Me  
-
-- 💻 Currently building **Node.js** & **React.js** projects  
-- 🤝 Open to collaborating on impactful **MERN Stack Applications**  
-- 🌱 Exploring **Generative AI** & **WebRTC** for real-time apps  
-- 📘 Leveling up my **Data Structures & Algorithms** with **LeetCode** & **GFG**  
-- 💡 Passionate about **real-time, scalable applications**  
-- 👨‍💻 Portfolio: [Click Here](https://santhosh-dev.vercel.app/)  
-- 📄 Resume: [View PDF](https://drive.google.com/file/d/14m2Foj2EP5WBCWUcJnhki1i6OeVS28I1/view?usp=sharing)  
-- 📫 Email: [santhoshnaik6929@gmail.com](mailto:santhoshnaik6929@gmail.com)  
-
-
-## 🌐 Connect With Me  
 <p align="center">
-  <a href="https://www.linkedin.com/in/santhosh-chauhan/"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
-  <a href="https://www.geeksforgeeks.org/user/santhoshacme/"><img src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png" height="40" /></a>
-  <a href="https://leetcode.com/u/santhoshnaik218/"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" height="40" /></a>
-  <a href="https://www.instagram.com/_santuuuuuu/"><img src="https://skillicons.dev/icons?i=instagram" height="40" /></a>
-</p>
-
-
-## 🛠️ Tech Stack & Tools  
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,javascript,react,nodejs,express,mongodb,html,css,tailwind,git,postman" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=70&color=FFFFFF&center=true&vCenter=true&width=600&height=150&lines=MOURYA&repeat=false&runonce=true" alt="Mourya" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=webrtc,socketio" />
+  <img src="https://img.shields.io/badge/Full--Stack%20MERN%20Developer-7AA2F7?style=for-the-badge&labelColor=1A1B26" alt="Role" />
+  <img src="https://img.shields.io/badge/Computer%20Vision%20Engineer-7AA2F7?style=for-the-badge&labelColor=1A1B26" alt="Specialty" />
+  <img src="https://img.shields.io/badge/Competitive%20Programmer-7AA2F7?style=for-the-badge&labelColor=1A1B26" alt="CP" />
+</p>
+<p align="center">
+  <a href="https://github.com/chowhan123">
+    <img src="https://img.shields.io/github/followers/chowhan123?label=Follow%20the%20Journey&style=for-the-badge&color=7aa2f7&logo=github" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=chowhan123&label=Profile%20Views&color=7aa2f7&style=for-the-badge" alt="Profile views" />
 </p>
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,spring,django,python,cpp,java,html,css,tailwind,git,postman,linux" />
+</p>
 
-## 📊 GitHub Stats  
+Specialized Tools:
+<p align="left">
+  <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" />
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
+  <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" />
+  <img src="https://img.shields.io/badge/Segment_Anything-FF6B6B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chowhan123&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="160" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=chowhan123&theme=dark&hide_border=false" height="160" />
-</div>
+🏆 Competitive Programming
+<p align="left">
+  <a href="https://leetcode.com/u/santhoshnaik218/">
+    <img src="https://img.shields.io/badge/LeetCode-250+_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/santhoshacme/">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-Active-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
+</p>
+Focus Areas: Graph Theory, Dynamic Programming, Algorithm Optimization, System Design
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chowhan123&theme=dark&hide_border=false&layout=compact" height="160" />
-</div>
+📊 Engineering Metrics
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=chowhan123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chowhan123&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=chowhan123&theme=tokyonight&hide_border=true" />
+</p>
 
-
-## 🐍 Contribution Snake  
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
+📫 Connect & Collaborate
+<p align="center">
+  <a href="https://www.linkedin.com/in/santhosh-chauhan/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:santhoshnaik6929@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://santhosh-dev.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://drive.google.com/file/d/14m2Foj2EP5WBCWUcJnhki1i6OeVS28I1/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Resume-FF0000?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/_santuuuuuu/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
 <p align="center">
-  ✨ *Let’s build something amazing together.* ✨  
+  <i>🚀 Open to Full-Time Opportunities & Collaborations | Let's build something extraordinary together</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </p>
