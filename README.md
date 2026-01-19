@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Full--Stack%20MERN%20Developer-7AA2F7?style=for-the-badge&labelColor=1A1B26" alt="Role" />
-  <img src="https://img.shields.io/badge/Computer%20Vision%20Engineer-7AA2F7?style=for-the-badge&labelColor=1A1B26" alt="Specialty" />
+  <img src="https://img.shields.io/badge/Java%20Full--Stack%20Developer-7AA2F7?style=for-the-badge&labelColor=1A1B26" alt="Specialty" />
   <img src="https://img.shields.io/badge/Competitive%20Programmer-7AA2F7?style=for-the-badge&labelColor=1A1B26" alt="CP" />
 </p>
 
@@ -20,29 +20,21 @@
 ### ⚡ The Mission
 I architect scalable full-stack applications and build real-time web solutions. Passionate about creating impactful software through clean code and efficient system design.
 
-🎓 Final Year B.Tech ECE Student at MNIT Jaipur (Graduating June 2026)
-💼 Experience: Node.js Developer Intern at DataValley Web Services
-🛠️ Current Focus: Learning Java Full-Stack Development and System Design fundamentals
-🏗️ Core Stack: MERN, Spring Boot, REST APIs, WebRTC, Socket.IO
-🧩 Competitive Programming: 250+ problems solved across LeetCode & GeeksforGeeks
-🏆 Leadership: Kabaddi Team Captain - 3 consecutive championships at MNIT
+- 🎓 Final Year B.Tech ECE Student at MNIT Jaipur (Graduating June 2026)
+- 💼 **Experience**: Node.js Developer Intern at DataValley Web Services
+- 🛠️ **Current Focus**: Learning Java Full-Stack Development and System Design fundamentals
+- 🏗️ **Core Stack**: MERN, Spring Boot, REST APIs, WebRTC, Socket.IO
+- 🧩 **Competitive Programming**: 250+ problems solved across LeetCode & GeeksforGeeks
+- 🏆 **Leadership**: Kabaddi Team Captain - 3 consecutive championships at MNIT
 ---
 
 ### 🛠️ Technical Ecosystem
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,Java,spring,spring MVC,html,css,tailwind,git,postman" />
-</p>
----
 
-Specialized Tools:
 <p align="left">
-  <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" />
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
-  <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" />
-  <img src="https://img.shields.io/badge/Segment_Anything-FF6B6B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,java,spring,springboot,sql,html,css,tailwind,git,postman" />
 </p>
+
+---
 
 ### 🚀 Featured Innovations
 
@@ -55,6 +47,7 @@ Specialized Tools:
 ---
 
 ### 🏆 Coading Profiles
+
 <p align="center">
   <a href="https://leetcode.com/u/santhoshnaik218/">
     <img src="https://img.shields.io/badge/LeetCode-250+_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
@@ -63,10 +56,12 @@ Specialized Tools:
     <img src="https://img.shields.io/badge/GeeksforGeeks-Active-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   </a>
 </p>
+
 ---
 
 
 ### 📊 Engineering Metrics
+
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=chowhan123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=chowhan123&theme=tokyonight&hide_border=true" />
@@ -74,9 +69,10 @@ Specialized Tools:
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chowhan123&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
+
 ---
 
-### 📫 Connect & Collaborate
+
 <p align="center">
   <a href="https://www.linkedin.com/in/santhosh-chauhan/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -91,7 +87,7 @@ Specialized Tools:
     <img src="https://img.shields.io/badge/Resume-FF0000?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" />
   </a>
 </p>
----
+
 
 <p align="center">
   <i>🚀 Open to Full-Time Opportunities & Collaborations | Let's build something extraordinary together</i>
