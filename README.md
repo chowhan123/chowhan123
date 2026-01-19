@@ -36,16 +36,6 @@ I architect scalable full-stack applications and build real-time web solutions. 
 
 ---
 
-### 🚀 Featured Innovations
-
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| **[Wanderlust](https://wonderlust-ffz4.onrender.com/)** | Full-stack accommodation booking platform with real-time availability. | `React` `Node.js` `MongoDB` |
-| **[MeetSpace](https://meetspacefrontend.onrender.com/)** | Real-time video conferencing application with peer-to-peer connections. | `WebRTC` `Socket.IO` `React` |
-| **[Product CRUD Manager](https://github.com/chowhan123/product-crud-spring-mvc)** | Enterprise inventory management with Spring MC architecture. | `Spring` `Hibernate` `MySQL` |
-| **[TripPocket ](https://github.com/chowhan123/TripPocket-AI-Trip-Planner)** | AI-powered travel planner with real-time chat and personalized itineraries. | `React` `Mongo` `Node.js` `OpenAI` `Socket.IO`|
----
-
 ### 🏆 Coading Profiles
 
 <p align="center">
@@ -59,15 +49,22 @@ I architect scalable full-stack applications and build real-time web solutions. 
 
 ---
 
+### 🚀 Featured Innovations
+
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **[Wanderlust](https://wonderlust-ffz4.onrender.com/)** | Full-stack accommodation booking platform with real-time availability. | `React` `Node.js` `MongoDB` |
+| **[MeetSpace](https://meetspacefrontend.onrender.com/)** | Real-time video conferencing application with peer-to-peer connections. | `WebRTC` `Socket.IO` `React` |
+| **[Product CRUD Manager](https://github.com/chowhan123/product-crud-spring-mvc)** | Enterprise inventory management with Spring MC architecture. | `Spring` `Hibernate` `MySQL` |
+| **[TripPocket ](https://github.com/chowhan123/TripPocket-AI-Trip-Planner)** | AI-powered travel planner with real-time chat and personalized itineraries. | `React` `Mongo` `Node.js` `OpenAI` `Socket.IO`|
+---
+
 
 ### 📊 Engineering Metrics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=chowhan123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=chowhan123&theme=tokyonight&hide_border=true" />
-</p>
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chowhan123&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img width="48" src="https://github-readme-stats.vercel.app/api?username=chowhan123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="42" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chowhan123&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 ---
